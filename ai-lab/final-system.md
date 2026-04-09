@@ -1,0 +1,3 @@
+# Sistema final
+
+Para mantener segura la ciudad se deben crear camaras que detecten movimiento y perciban sonido, para hacer más eficientes las rutas deberían de crearse señalizaciones y mapas que permitan identificar los puntos importantes para que sepan a dónde dirigirse. Finalmente para evitar hackeos o pérdida de datos importantes sería necesario crear contraseñas que impliquen códigos seguros. Y en las mismas caras aplicar la identificación de patrones para que las camaras alerten de emociones negativas en las personas y saber si pueden o no hacer daño a la comunidad.
