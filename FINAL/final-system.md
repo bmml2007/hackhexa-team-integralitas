@@ -1,0 +1,4 @@
+# sistema final
+
+Para resolver todos los problemas intentamos buscar la solución más lógica y sencilla para identificar errores o áreas de mejora en los problemas y terminarlos correctamente. Para conectar todo decidimos que nuestro sistema de actividad identificara movimientos y sonidos que al final este termina teniendo relación con los mensajes en código, ya que podría implementarse alguna forma en la que una persona ingrese o diga el código en clave y que el sistema lo detecte, mientras que la relación que tendría con el movimiento es que al saber clasificar las emociones con el modelo AI se podría identificar con mayor facilidad las personas que lleguen a un ambiente con alguna emoción hóstil o negativa.
+Algo que mejoraríamos si tuvieramos más tiempo sería recordar como programar las cosas que se nos indicaban, ya que teníamos una idea de como desarrollarlo pero no estabamos muy seguras de como se programaba.
